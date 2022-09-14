@@ -1,1 +1,27 @@
 /* styles go here */
+.naming {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.namingForm2 {
+  margin-bottom: 0;
+  display: block;
+}
+
+.age {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.form {
+  margin-bottom: 20px;
+}
+
+.naming2 {
+  margin-bottom: 10px;
+}
+
+.ageSize {
+  width: 65px;
+}
