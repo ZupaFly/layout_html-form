@@ -4,23 +4,18 @@
   display: block;
 }
 
-.namingForm2 {
+.fieldset {
+  margin-bottom: 20px;
+}
+
+.naming:last-child {
   margin-bottom: 0;
   display: block;
 }
 
-.age {
-  margin-bottom: 10px;
-  display: block;
-}
-
-.form {
+/* .form {
   margin-bottom: 20px;
-}
-
-.naming2 {
-  margin-bottom: 10px;
-}
+} */
 
 .ageSize {
   width: 65px;
